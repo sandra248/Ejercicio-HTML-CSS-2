@@ -1,0 +1,21 @@
+body {
+  background-color: grey;
+}
+
+p {
+  font-family: Tahoma 12;
+}
+
+p {
+  text-align: justify;
+}
+.parent {
+  text-align: center;
+}
+.justificar-lista {
+  text-align: justify;
+}
+strong,
+b {
+  font-weight: bold;
+}
